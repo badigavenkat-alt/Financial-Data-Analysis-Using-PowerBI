@@ -1,6 +1,6 @@
 # Financial-Data-Analysis-Using-PowerBI
 “Interactive financial data analysis dashboard built using Power BI for analyzing revenue, net income, cash flow, assets, liabilities, and business KPIs.".
-# Financial Data Analysis using Power BI
+
 
 ## Overview
 This project focuses on analyzing company financial performance using Power BI dashboards and data visualization techniques.
